@@ -1,0 +1,25 @@
+.Block {
+	color: white;
+	display: inline-block;
+	border: solid 2px white;
+	height: 200px;
+	width: 200px;
+	margin: 5px;
+	padding-top: 5px;
+}
+
+.Block p {
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+.pHead {
+	margin: 0;
+}
+
+
+
+.Block h3 {
+	margin-top: 5px;
+	text-align: center;
+}
